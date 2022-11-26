@@ -2,3 +2,4 @@ Sample
 Text 
 Document
 for Testing
+Added new line
